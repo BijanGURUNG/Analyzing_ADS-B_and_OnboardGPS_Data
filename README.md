@@ -14,5 +14,5 @@ Beginning early 2000s, Federal Aviation Administration (FAA)'s started the Next 
 
 
 
-
+### Air tours in Alaska
 Meanwhile, air tours have become a popular mode of sightseeing in many parks and protected areas that have iconic landscapes (Beeco & Joyce, 2019). 
