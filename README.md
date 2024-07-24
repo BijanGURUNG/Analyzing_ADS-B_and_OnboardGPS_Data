@@ -3,7 +3,7 @@
 ## Comparing the aircraft surveillance data (air tour data) recorded by ADS-B data logger and Onboard navigation (GPS) technologies in Denali National Park and Reserve, Alaska
 
 
-Aircraft have been employing different technologies for aircraft monitoring or surveillance. The three main types of aircraft surveillance technologies are:
+Aviation Authorities have been employing different technologies for aircraft monitoring or surveillance. The three main types of aircraft surveillance technologies are:
 1. Radar-based aircraft surveillance
 2. Automatic Dependent Surveillance-Broadcast (ADS-B)
 3. Other Satellite Communication Devices
