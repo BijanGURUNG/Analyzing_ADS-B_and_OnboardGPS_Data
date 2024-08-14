@@ -9,7 +9,7 @@ authors:
 - family-names: "Betchkal"
   given-names: "Davyd"
   orcid: "https://orcid.org/0000-0002-7439-049X"
-title: "Analyzing the overflights spatial data obtained from ADS-B and Onboard GPS"
+title: "Analyzing the overflight spatial data obtained from ADS-B and Onboard GPS"
 version: 1.0
 doi: 10.5281/zenodo.13320771
 date-released: 2024-08-14
