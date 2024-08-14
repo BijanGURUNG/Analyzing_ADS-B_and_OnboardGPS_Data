@@ -1,6 +1,6 @@
 # ADS-B and Onboard GPS Technologies in Spatial Monitoring of Overflights
 
-## Comparing the aircraft surveillance data (air tour data) recorded by ADS-B data logger and Onboard navigation (GPS) technologies in Denali National Park and Reserve, Alaska
+## Comparing the aircraft surveillance data (air tour data) recorded by ADS-B data logger and Onboard navigation (GPS) technologies 
 
 
 Aviation Authorities have been employing different technologies for aircraft monitoring or surveillance. The three main types of aircraft surveillance technologies are:
