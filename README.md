@@ -14,3 +14,4 @@ Beginning early 2000s, Federal Aviation Administration (FAA)'s started the Next 
 
 Aircraft also use lightweight flight data recorders that are supported by Iridium (or similar) satellite constellation or network. The third party vendors catering this service include Spidertracks, Web Sentinel, Garmin, GSat, ForeFlight, inReach, etc. Iridium satellites are a constellation of 66 low-earth orbiting satellites with a global coverage. Iridium satellites are low orbit satellites at an altitude of 781 kilometers from the earth's surface and inclination of 86.4 degree. The devices (Onboard GPS) are smaller in size and cost-effective for obtaining surveillance data. They are connected to the central computer via satellite and the data are displayed and disseminated to the clients. 
  
+## Note: Please reach out to me bijangrg@gmail.com if you are building similar ArcPy scripts or a ArcGIS Pro toolbox. I will upload a basic description to my YouTube channel. 
